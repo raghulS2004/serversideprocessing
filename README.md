@@ -129,12 +129,15 @@ def rectarea(request):
     return render(request,'myapp/server.html',context)
 ```
 ## OUTPUT:
-![Screenshot (40)](https://github.com/Jayakrishnan22003251/serversideprocessing/assets/120232371/dc9946b7-10f8-4325-8a91-4f2a068faec3)
+![image](https://github.com/raghulS2004/serversideprocessing/assets/122069938/e3776475-3e5f-4653-a95e-96ec232f84b5)
+
 
 ### Home Page:
-![Screenshot (42)](https://github.com/Jayakrishnan22003251/serversideprocessing/assets/120232371/91d7c25a-3f74-4cda-8a1c-3ae9faa888c8)
+![image](https://github.com/raghulS2004/serversideprocessing/assets/122069938/fce21535-bf95-4aa3-b27c-ef81a70f2182)
+
 ### HTML VALIDATOR:
-![Screenshot (43)](https://github.com/Jayakrishnan22003251/serversideprocessing/assets/120232371/536a155f-ab11-4d77-a177-3a9b484fac55)
+![image](https://github.com/raghulS2004/serversideprocessing/assets/122069938/e878bf7e-fcde-44f7-9911-6c715efdd7df)
+
 
 
 ## Result:
